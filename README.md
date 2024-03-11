@@ -1,6 +1,6 @@
 # Webcam RTSP server
 
-Some scripts to quickly get an RTSP server running using your webcam.
+Some scripts to quickly get an RTSP server running using your webcam (to make your webcam usable with [Moducam](https://github.com/Moducam/moducam), for example)
 
 ## Running
 ### Method 1
